@@ -1,17 +1,27 @@
-# first_flutter_app
+# Лабораторная работа №2. Знакомство с Flutter
 
-A new Flutter project.
+## Цель работы: 
+Познакомиться с основным инструментом кроссплатформенной разработки — Flutter. Создать и запустить первый Flutter-проект в браузере Chrome, изучить структуру проекта и базовые концепции фреймворка — виджеты и дерево виджетов.
 
-## Getting Started
+## Необходимые инструменты:
+- Flutter 3.35+
+- VS Code (рекомендуется для лабораторной работы), либо IntelliJ IDEA /
+Android Studio с установленным плагином Flutter
+- Git
+- Браузер Google Chrome / Edge
 
-This project is a starting point for a Flutter application.
+## Скриншоты
+![img](img/step9_Dun_Sal.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Запуск
+1. Клонировать репозиторий
+2. Перейти в папку проекта
+3. Выполнить `flutter pub get`
+4. Запустить командой `flutter run -d chrome`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Что изучили
+- Основы кроссплатформенной разработки на Flutter.
+- Структура Flutter-проекта (назначение папок и файлов).
+- Работа с базовыми виджетами и деревом виджетов.
+- Использование базовых команд для сборки и запуска приложения.
+- Контроль версий проекта с помощью Git.
